@@ -18,7 +18,7 @@ CÉLULA 1 — Instalação e ambiente
 import math
 import random
 import numpy as np
-import matplotlib.pyplot as plt
+
 
 import torch
 import torch.nn as nn
