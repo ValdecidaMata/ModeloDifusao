@@ -11,7 +11,7 @@ CÉLULA 1 — Instalação e ambiente
 
 # (Colab) Runtime > Change runtime type > GPU (opcional, recomendado)
 
-pip install torch torchvision matplotlib numpy tqdm
+
 
 """CÉLULA 2 — Imports e setup"""
 
