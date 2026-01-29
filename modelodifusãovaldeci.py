@@ -9,10 +9,6 @@ Original file is located at
 CÉLULA 1 — Instalação e ambiente
 """
 
-# (Colab) Runtime > Change runtime type > GPU (opcional, recomendado)
-
-!pip install torch torchvision matplotlib numpy tqdm
-
 print(open('app.py').read())
 
 """CÉLULA 2 — Imports e setup"""
