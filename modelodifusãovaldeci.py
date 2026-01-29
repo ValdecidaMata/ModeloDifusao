@@ -8,7 +8,7 @@ Original file is located at
 
 CÉLULA 1 — Instalação e ambiente
 """
-
+pip install torch torchvision matplotlib numpy tqdm
 print(open('app.py').read())
 
 """CÉLULA 2 — Imports e setup"""
@@ -31,7 +31,7 @@ Esta célula é o nosso ponto de partida, onde garantimos que todas as ferrament
 ```python
 # (Colab) Runtime > Change runtime type > GPU (opcional, recomendado)
 
-!pip install torch torchvision matplotlib numpy tqdm
+pip install torch torchvision matplotlib numpy tqdm
 ```
 
 -   `!pip install torch torchvision matplotlib numpy tqdm`: Este comando instala as bibliotecas Python que são os pilares do nosso projeto. Permita-me detalhar cada uma:
